@@ -2,6 +2,10 @@
 
 > **Mokepon** es un videojuego web 2D multijugador desarrollado como proyecto práctico del **Curso de Programación Básica de Platzi**. Los jugadores eligen su mascota Mokepon, exploran un mapa interactivo renderizado en HTML5 Canvas, detectan colisiones con otros jugadores en tiempo real y libran combates estratégicos por turnos basados en ventajas elementales.
 
+### 🎓 Certificación y Diploma
+- 📜 **Diploma Oficial en Platzi**: Puedes consultar la validación oficial en línea en el siguiente enlace: [Ver Diploma Oficial de Platzi](https://platzi.com/p/angelortegacorrea09/curso/3208-programacion-basica-2022/diploma/detalle/).
+- 📁 **Certificado en Repositorio**: El archivo original en formato PDF se encuentra disponible para su visualización en la carpeta [`certificado/`](./certificado/).
+
 ---
 
 ## 🎮 Demostración y Flujo de Juego
@@ -109,6 +113,7 @@ mokepon/
 │   ├── ratigueya.png
 │   ├── mokemap.png
 │   └── ...
+├── certificado/             # Diploma y certificado oficial de Platzi (PDF)
 ├── js/
 │   └── mokepon.js           # Lógica del cliente, canvas y peticiones fetch
 ├── index.js                 # Servidor backend con Express y endpoints REST
@@ -123,3 +128,7 @@ mokepon/
 ## 👤 Autor
 
 Desarrollado con dedicación por **Luis Ortega** ([@LuisOrCo](https://github.com/LuisOrCo)) como parte del proyecto práctico del **Curso de Programación Básica de Platzi**.
+
+🎓 **Diploma y Certificado**:
+- [Validación del Diploma Oficial en Platzi](https://platzi.com/p/angelortegacorrea09/curso/3208-programacion-basica-2022/diploma/detalle/)
+- Documento disponible en la carpeta local: [`certificado/`](./certificado/)
